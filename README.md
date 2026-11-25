@@ -1,8 +1,8 @@
-# Lorem Ipsum Generator
+# Lorem Filler Text Browser
 
 Generate lorem ipsum placeholder text in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/lorem-ipsum-generator/
+**Live demo:** https://0xelitesystem.github.io/lorem-filler-text-browser/
 
 ## Use
 
@@ -25,8 +25,8 @@ Everything runs in your browser. The generated text never leaves your machine. T
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/lorem-ipsum-generator
-cd lorem-ipsum-generator
+git clone https://github.com/0xelitesystem/lorem-filler-text-browser
+cd lorem-filler-text-browser
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -45,6 +45,6 @@ MIT.
 
 ## Related
 
-- [mock-data-generator](https://github.com/0xelitesystem/mock-data-generator)
+- [browser-fake-test-data](https://github.com/0xelitesystem/browser-fake-test-data)
 - [htaccess-redirect-generator](https://github.com/0xelitesystem/htaccess-redirect-generator)
 - [jwt-inspector](https://github.com/0xelitesystem/jwt-inspector)
