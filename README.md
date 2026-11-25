@@ -46,5 +46,5 @@ MIT.
 ## Related
 
 - [browser-fake-test-data](https://github.com/0xelitesystem/browser-fake-test-data)
-- [htaccess-redirect-generator](https://github.com/0xelitesystem/htaccess-redirect-generator)
+- [htaccess-rewrite-rule-builder](https://github.com/0xelitesystem/htaccess-rewrite-rule-builder)
 - [jwt-verify-in-browser](https://github.com/0xelitesystem/jwt-verify-in-browser)
